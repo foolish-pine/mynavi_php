@@ -6,5 +6,4 @@
   $statement->execute(array($_POST['memo']));
   echo 'メモが追加されました。';
   ?>
-
 </pre>
